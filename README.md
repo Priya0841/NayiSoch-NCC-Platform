@@ -185,7 +185,7 @@ npm run deploy
 
 **Next Steps**:
 1. Set up project structure and AWS infrastructure
-2. Implement authentication service
+2. Implement the authentication service
 3. Build cadet management service
 4. Integrate AI Growth Intelligence Engine
 5. Develop React frontend
@@ -197,15 +197,16 @@ This project is part of the NayiSoch hackathon submission. For questions or coll
 
 ## 📄 License
 
-This project is developed for the NayiSoch hackathon.
+This project is developed for the  AI for Bharat hackathon.
 
 ## 🏆 Hackathon Submission
 
-**Event**: NayiSoch Hackathon  
+**Event**: AI for Bharat Hackathon  
 **Category**: AI-Powered Solutions for Government/Defense  
-**Team**: [Your Team Name]  
+**Team**: NayiSoch 
 **Submission Date**: February 2026
 
 ---
 
 **Built with ❤️ for India's National Cadet Corps**
+
